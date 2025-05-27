@@ -1,2 +1,2 @@
-# stuff
-just trying how it works
+# general
+generic repository
